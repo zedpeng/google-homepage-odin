@@ -9,3 +9,8 @@ body {
   font-family: arial,sans-serif;
   color: #222;
 }
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
