@@ -14,3 +14,22 @@ nav {
   display: flex;
   justify-content: space-between;
 }
+
+#left-header-block, #right-header-block {
+  display: flex;
+  align-items: center;
+  margin-top: 6px;
+  padding-left: 30px;
+}
+
+#about-link {
+  margin-right: 5px;
+}
+
+#store-link {
+  margin-left: 18px;
+}
+
+a {
+  text-decoration: none;
+}
