@@ -19,7 +19,7 @@ nav {
   display: flex;
   align-items: center;
   margin-top: 6px;
-  padding-left: 30px;
+  padding-left: 26px;
 }
 
 #about-link {
@@ -32,4 +32,21 @@ nav {
 
 a {
   text-decoration: none;
+}
+
+#user-avatar{
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+#google-apps {
+  border-radius: 50%;
+}
+
+#gmail-link {
+  margin-right: 23px;
+}
+
+#images-link {
+  margin-right: 20px;
 }
