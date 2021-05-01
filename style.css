@@ -88,7 +88,7 @@ main {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 button {
@@ -98,4 +98,14 @@ button {
   font-size: 14px;
   border-radius: 5px;
   border-color: transparent;
+}
+
+.footer-block {
+  display: flex;
+}
+
+#footer-bar {
+  position: fixed;
+  bottom: 0;
+  min-width: 100%;
 }
